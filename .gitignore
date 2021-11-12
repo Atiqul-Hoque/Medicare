@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Application/.vs/Capstone/DesignTimeBuild/.dtbcache.v2
+/Application/.vs/Capstone/v16/.suo
+/Application/Capstone.Common.Medicare/obj/Debug/netCoreapp3.1/**
+azure-pipelines.yml
